@@ -99,8 +99,3 @@ For macOS and Linux (depending on your shell):
 ```
 
 For Windows, restart the command prompt.
-
-
-## License
-This project is licensed under the **MIT License**.
-
